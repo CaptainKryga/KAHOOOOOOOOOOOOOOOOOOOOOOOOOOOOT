@@ -1,0 +1,75 @@
+{
+  "subject": "Стереотипы",
+  "questions": [
+    {
+      "question": "Мужчины не плачут",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Женщины хуже водят",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Люди в очках умные",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Высокие люди — баскетболисты",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Парни не понимают намёков",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Девушки помнят всё",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Все немцы пунктуальные",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Все японцы каратисты и сумоисты",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Программисты могут починить любой компьютер, принтер или телефон",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    },
+    {
+      "question": "Удалёнщики всё время дома, значит всегда свободны",
+      "answers": ["Да", "Нет"],
+      "solution": -1,
+      "cooldown": 2,
+      "time": 20
+    }
+  ]
+}
